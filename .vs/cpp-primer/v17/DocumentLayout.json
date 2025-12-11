@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IOprogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:IOprogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Program-Structure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:Program-Structure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IOprogram.cpp",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IOprogram.cpp",
+              "RelativeDocumentMoniker": "IOprogram.cpp",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IOprogram.cpp",
+              "RelativeToolTip": "IOprogram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T08:52:37.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program-Structure.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Program-Structure.cpp",
               "RelativeDocumentMoniker": "Program-Structure.cpp",
               "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Program-Structure.cpp",
               "RelativeToolTip": "Program-Structure.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-07T08:55:37.441Z",
               "EditorCaption": ""
