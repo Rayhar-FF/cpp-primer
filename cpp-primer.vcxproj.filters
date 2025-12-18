@@ -24,5 +24,8 @@
     <ClCompile Include="Comments.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Flow-Control-While-Loops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
