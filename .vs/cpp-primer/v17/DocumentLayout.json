@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Comments.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:Comments.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IOprogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:IOprogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Comments.cpp",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Comments.cpp",
+              "RelativeDocumentMoniker": "Comments.cpp",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Comments.cpp",
+              "RelativeToolTip": "Comments.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T07:48:51.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IOprogram.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IOprogram.cpp",
               "RelativeDocumentMoniker": "IOprogram.cpp",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program-Structure.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Program-Structure.cpp",
               "RelativeDocumentMoniker": "Program-Structure.cpp",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Program-Structure.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-07T08:55:37.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T08:55:37.441Z"
             }
           ]
         }

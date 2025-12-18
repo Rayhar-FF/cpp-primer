@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/        # Visual Studio cache/options directory
+*.aps       # Visual C++ cache file
+*.bak       # Backup files
+*.cachefile
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Build Artifacts
+[Dd]ebug/   # Debug build folder
+[Rr]elease/ # Release build folder
+x64/        # Common 64-bit build output folder
+ARM/        # Common ARM build output folder
+bin/        # Generic build output folder
+obj/        # Generic intermediate folder
+*.obj       # Compiled object files
+*.ilk       # Incremental linker files
+*.pch       # Precompiled headers
+*.lib       # Compiled static libraries
+*.exp       # Linker export files
+*.exe       # Executables
+*.dll       # Compiled dynamic libraries
+*.pdb       # Debugger files
+
+# Solution and Project files (generated/temporary)
+*.layout
+*.suo       # Solution User Options (user-specific)
+*.user      # User-specific project options
+
+# Temporary files
+*.tmp
+*.log       # Log files
+*.tlog      # Build log files
+*.temp
+*.psess     # Visual Studio profiler files
+*.vsp
+*.vspx
+*.sap
+
+# CMake-specific (if applicable)
+out/        # Common CMake output directory
+CMakeLists.txt.user # User-specific CMake settings
+
+# Miscellaneous
+*.[Rr]e[Ss]harper # ReSharper files
+_TeamCity*        # TeamCity files
