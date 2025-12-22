@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\For-Loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:For-Loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Flow-Control-While-Loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:Flow-Control-While-Loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "For-Loops.cpp",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\For-Loops.cpp",
+              "RelativeDocumentMoniker": "For-Loops.cpp",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\For-Loops.cpp",
+              "RelativeToolTip": "For-Loops.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-22T08:35:08.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Flow-Control-While-Loops.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Flow-Control-While-Loops.cpp",
               "RelativeDocumentMoniker": "Flow-Control-While-Loops.cpp",
               "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Flow-Control-While-Loops.cpp",
               "RelativeToolTip": "Flow-Control-While-Loops.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-18T08:02:56.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Comments.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Comments.cpp",
               "RelativeDocumentMoniker": "Comments.cpp",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Comments.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-18T07:48:51.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T07:48:51.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IOprogram.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IOprogram.cpp",
               "RelativeDocumentMoniker": "IOprogram.cpp",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program-Structure.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\Program-Structure.cpp",
               "RelativeDocumentMoniker": "Program-Structure.cpp",

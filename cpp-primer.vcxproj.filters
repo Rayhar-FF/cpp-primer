@@ -27,5 +27,8 @@
     <ClCompile Include="Flow-Control-While-Loops.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="For-Loops.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
