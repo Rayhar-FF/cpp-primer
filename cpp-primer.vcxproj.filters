@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Program-Structure.cpp">
+    <ClCompile Include="00-Program-Structure.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IOprogram.cpp">
+    <ClCompile Include="01-IOprogram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Comments.cpp">
+    <ClCompile Include="02-Comments.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Flow-Control-While-Loops.cpp">
+    <ClCompile Include="03-Flow-Control-While-Loops.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="For-Loops.cpp">
+    <ClCompile Include="04-For-Loops.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

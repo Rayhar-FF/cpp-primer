@@ -123,17 +123,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Comments.cpp">
+    <ClCompile Include="02-Comments.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Flow-Control-While-Loops.cpp">
+    <ClCompile Include="03-Flow-Control-While-Loops.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="For-Loops.cpp" />
-    <ClCompile Include="IOprogram.cpp">
+    <ClCompile Include="04-For-Loops.cpp" />
+    <ClCompile Include="01-IOprogram.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Program-Structure.cpp">
+    <ClCompile Include="00-Program-Structure.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
