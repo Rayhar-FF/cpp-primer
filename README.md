@@ -8,7 +8,7 @@
 
 
 
-\*\*\*\* The order is marked by the prefix of the file. e.g 00 is the first file to view and 01 would be the file after that. While the f4:20 PM 12/22/2025ile names are the concepts being explained
+\*\*\*\* The order is marked by the prefix of the file. e.g 00 is the first file to view and 01 would be the file after that. While the file names are the topics.
 
 
 
@@ -17,6 +17,4 @@
 
 
 \*\*\*\* This Repo contains the concepts and code from the book cpp-primer.
-
-
 
