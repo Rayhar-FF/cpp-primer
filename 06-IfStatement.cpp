@@ -26,7 +26,7 @@ int main()
 		}
 		std::cout << currVal << " occurs " << cnt << " times" << std::endl;		    // *** Output to console the count of the value.
 																					// ### Since the code in the book resets that values of currVal and cnt
-	}																				// ### In the else statement the program may somes overlook values.
+	}																				// ### In the else statement the program may sometimes overlook values.
 	return 0;																		// ### It should be obvious how to handle this.
 }
 
