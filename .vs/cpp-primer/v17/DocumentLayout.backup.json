@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IfStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:IfStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\06-IfStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:06-IfStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\FlowControl-UnknownNumberOfInputs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:FlowControl-UnknownNumberOfInputs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\05-FlowControl-UnknownNumberOfInputs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:05-FlowControl-UnknownNumberOfInputs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\04-For-Loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -43,12 +43,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IfStatement.cpp",
-              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IfStatement.cpp",
-              "RelativeDocumentMoniker": "IfStatement.cpp",
-              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\IfStatement.cpp",
-              "RelativeToolTip": "IfStatement.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABeAAAAAAAAAA==",
+              "Title": "06-IfStatement.cpp",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\06-IfStatement.cpp",
+              "RelativeDocumentMoniker": "06-IfStatement.cpp",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\06-IfStatement.cpp",
+              "RelativeToolTip": "06-IfStatement.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-26T06:43:03.584Z",
               "EditorCaption": ""
@@ -56,14 +56,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FlowControl-UnknownNumberOfInputs.cpp",
-              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\FlowControl-UnknownNumberOfInputs.cpp",
-              "RelativeDocumentMoniker": "FlowControl-UnknownNumberOfInputs.cpp",
-              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\FlowControl-UnknownNumberOfInputs.cpp",
-              "RelativeToolTip": "FlowControl-UnknownNumberOfInputs.cpp",
+              "Title": "05-FlowControl-UnknownNumberOfInputs.cpp",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\05-FlowControl-UnknownNumberOfInputs.cpp",
+              "RelativeDocumentMoniker": "05-FlowControl-UnknownNumberOfInputs.cpp",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\05-FlowControl-UnknownNumberOfInputs.cpp",
+              "RelativeToolTip": "05-FlowControl-UnknownNumberOfInputs.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-26T06:21:08.159Z"
+              "WhenOpened": "2025-12-26T06:21:08.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

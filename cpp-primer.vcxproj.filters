@@ -30,10 +30,10 @@
     <ClCompile Include="04-For-Loops.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FlowControl-UnknownNumberOfInputs.cpp">
+    <ClCompile Include="05-FlowControl-UnknownNumberOfInputs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IfStatement.cpp">
+    <ClCompile Include="06-IfStatement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
