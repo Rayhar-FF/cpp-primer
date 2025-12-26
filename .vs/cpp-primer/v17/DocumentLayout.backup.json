@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\07-Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:07-Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\06-IfStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F5CF962-4D78-4F37-9B0A-04139DDCD132}|cpp-primer.vcxproj|solutionrelative:06-IfStatement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -43,27 +47,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "06-IfStatement.cpp",
-              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\06-IfStatement.cpp",
-              "RelativeDocumentMoniker": "06-IfStatement.cpp",
-              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\06-IfStatement.cpp",
-              "RelativeToolTip": "06-IfStatement.cpp",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABLAAAAAAAAAA==",
->>>>>>> parent of 9f25622 (comment revised)
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABLAAAAAAAAAA==",
->>>>>>> parent of 9f25622 (comment revised)
+              "Title": "07-Classes.cpp",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\07-Classes.cpp",
+              "RelativeDocumentMoniker": "07-Classes.cpp",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\07-Classes.cpp",
+              "RelativeToolTip": "07-Classes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-26T06:43:03.584Z",
+              "WhenOpened": "2025-12-26T12:12:47.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "06-IfStatement.cpp",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\06-IfStatement.cpp",
+              "RelativeDocumentMoniker": "06-IfStatement.cpp",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\06-IfStatement.cpp",
+              "RelativeToolTip": "06-IfStatement.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T06:43:03.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "05-FlowControl-UnknownNumberOfInputs.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\05-FlowControl-UnknownNumberOfInputs.cpp",
               "RelativeDocumentMoniker": "05-FlowControl-UnknownNumberOfInputs.cpp",
@@ -75,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "04-For-Loops.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\04-For-Loops.cpp",
               "RelativeDocumentMoniker": "04-For-Loops.cpp",
@@ -87,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "03-Flow-Control-While-Loops.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\03-Flow-Control-While-Loops.cpp",
               "RelativeDocumentMoniker": "03-Flow-Control-While-Loops.cpp",
@@ -99,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "02-Comments.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\02-Comments.cpp",
               "RelativeDocumentMoniker": "02-Comments.cpp",
@@ -111,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "01-IOprogram.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\01-IOprogram.cpp",
               "RelativeDocumentMoniker": "01-IOprogram.cpp",
@@ -123,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "00-Program-Structure.cpp",
               "DocumentMoniker": "C:\\Users\\haris\\Desktop\\cpp-primer\\cpp-primer\\00-Program-Structure.cpp",
               "RelativeDocumentMoniker": "00-Program-Structure.cpp",
