@@ -39,5 +39,13 @@
     <ClCompile Include="07-Classes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="08-Types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\08-arithmetictypes.png">
+      <Filter>Source Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
